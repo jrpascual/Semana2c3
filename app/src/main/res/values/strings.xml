@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Semana2c3</string>
+    <string name="lNombreCompleto">Nombre Completo</string>
+    <string name="lFechaNacimiento">Fecha de Nacimiento</string>
+    <string name="lTelefono">Telefono</string>
+    <string name="lEmail">Email</string>
+    <string name="lDescripcionContacto">Descripción de Contacto</string>
+    <string name="lBoton">Siguiente</string>
+    <string name="TituloConfirmar">Confirmar Datos</string>
+    <string name="BotonEditar">Editar Datos</string>
+    <string name="vdia">dia</string>
+    <string name="vmes">mes</string>
+    <string name="vano">año</string>
+</resources>
